@@ -3,7 +3,15 @@
 <h3 align="center">A passionate web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caren-koroeny&label=Profile%20views&color=0e75b6&style=flat" alt="caren-koroeny" /> </p>
+## Glad to see you here! &nbsp; ![visitors](<p align="left"> <img src="https://komarev.com/ghpvc/?username=caren-koroeny&label=Profile%20views&color=0e75b6&style=flat" alt="caren-koroeny" /> </p>
+
+I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+
+That's why I like to make things that make a difference.
+
+
 
 <p align="left"> <a href="https://twitter.com/carensiya" target="blank"><img src="https://img.shields.io/twitter/follow/carensiya?logo=twitter&style=for-the-badge" alt="carensiya" /></a> </p>
 
