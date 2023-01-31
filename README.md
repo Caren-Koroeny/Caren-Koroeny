@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-## Glad to see you here! &nbsp; ![visitors]<a href="https://visitorbadge.io/status?path=Caren%20Koroeny"><img src="https://api.visitorbadge.io/api/visitors?path=Caren%20Koroeny&label=Visitors&countColor=%23263759" /></a>
+## Glad to see you here! &nbsp; [visitors]<a href="https://visitorbadge.io/status?path=Caren%20Koroeny"><img src="https://api.visitorbadge.io/api/visitors?path=Caren%20Koroeny&label=Visitors&countColor=%23263759" /></a>
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
