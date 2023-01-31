@@ -12,8 +12,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 That's why I like to make things that make a difference.
 
 
-
-<p align="left"> <a href="https://twitter.com/carensiya" target="blank"><img src="https://img.shields.io/twitter/follow/carensiya?logo=twitter&style=for-the-badge" alt="carensiya" /></a> </p>
+### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on **Front End** projects.
 
@@ -28,6 +27,7 @@ That's why I like to make things that make a difference.
 <p align="left">
 <a href="https://codepen.io/carensiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="carensiya" height="30" width="40" /></a>
 <a href="https://twitter.com/carensiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carensiya" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/carensiya" target="blank"><img src="https://img.shields.io/twitter/follow/carensiya?logo=twitter&style=for-the-badge" alt="carensiya" /></a> </p>
 <a href="https://linkedin.com/in/caren siya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caren siya" height="30" width="40" /></a>
 </p>
 
