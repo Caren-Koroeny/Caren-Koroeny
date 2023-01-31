@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caren siya</h1>
+# Welcome to [Caren Siya's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <h3 align="center">A passionate web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/carensiya" target="blank"><img src="https://img.shields.io/twitter/follow/carensiya?logo=twitter&style=for-the-badge" alt="carensiya" /></a> </p>
 
-- 🔭 I’m currently working on **frontend-projects**
+- 🔭 I’m currently working on **Front End** projects.
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning at **Microverse**
 
 - 👯 I’m looking to collaborate on **frontend and backend projects**
 
