@@ -1,24 +1,24 @@
 # Welcome to [Caren Siya's](https://caren-koroeny.github.io/carensiya-portfolio/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate software developer and Software Tester from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 ## Glad to see you here! &nbsp; <a href="https://visitorbadge.io/status?path=Caren%20Koroeny"><img src="https://api.visitorbadge.io/api/visitors?path=Caren%20Koroeny&label=Visitors&countColor=%23263759" /></a>
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a full-stack software engineer and software tester. I love programming, testing, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+As a software engineer and tester, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on **Front End** projects.
+- 🔭 I’m currently working on **Software testing** of projects using JIRA and Postman Tools.
 
-- 🌱 I’m currently learning at **Microverse**
+- 🌱 I’m currently learning and training at **Tana**
 
-- 👯 I’m looking to collaborate on **frontend and backend projects**
+- 👯 I’m looking to collaborate on **frontend,backend projects, API consuming and Testing of softwares**
 
 - 📫 How to reach me **carensiya5@gmail.com**
 
